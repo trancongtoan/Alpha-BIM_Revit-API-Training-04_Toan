@@ -1,0 +1,15 @@
+*.dll
+*.cache
+*.pdb
+*.sqlite
+*.baml
+*.zip
+*.suo
+*.xml
+*.vs
+bin
+obj
+dllsReference
+packages
+debug
+old
